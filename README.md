@@ -1,5 +1,5 @@
-# Projects
-Here are a few projects created by Anna Clark
+# Portfolio
+By Anna Clark
 ---
 <img alt="FarmersMarketOgden" src="https://github.com/user-attachments/assets/cd125bf2-9d22-46db-b347-5f60dbcf6bda" />
 ---
