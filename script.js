@@ -1,12 +1,12 @@
 const images = [
-    'images/AerospaceEngineering.jpg',
-    'images/FarmersMarketOgden.jpg',
-    'images/HikingApp.jpg',
-    'images/GrandCanyonTrifold.jpg',
-    'images/ConcertPoster.jpg',
-    'images/JungleBook.jpg',
-    'images/SpacePatch.jpg',
-    'images/Bonsai.jpg',
+    'AerospaceEngineering.jpg',
+    'FarmersMarketOgden.jpg',
+    'HikingApp.jpg',
+    'GrandCanyonTrifold.jpg',
+    'ConcertPoster.jpg',
+    'JungleBook.jpg',
+    'SpacePatch.jpg',
+    'Bonsai.jpg',
 ];
 
 let currentIndex = 0;
